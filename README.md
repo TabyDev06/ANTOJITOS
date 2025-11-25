@@ -46,12 +46,12 @@ antojitos/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TabyDev06/CROCANTE.git
+   git clone https://github.com/TabyDev06/ANTOJITOS.git
    ```
 2. Enter the project:
 
    ```bash
-   cd CROCANTE
+   cd antojitos
    ```
 3. Install dependencies:
 
