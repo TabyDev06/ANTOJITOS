@@ -1,16 +1,76 @@
-# React + Vite
+# 🍗 Antojitos — Modern Peruvian Rotisserie Chicken Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Antojitos** is a clean, modern, and fully responsive web application for a *pollería a la brasa* built with **React**, **Vite**, and **Tailwind CSS**.  
+This project showcases chicken combos, sides, drinks, promotions, and restaurant details with an attractive and smooth UI/UX.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## React Compiler
+- **React** — Component-based architecture  
+- **Vite** — Lightning-fast development & optimized builds  
+- **Tailwind CSS** — Utility-first modern styling  
+- **Mock Data (JSON)** — Menu & promotions without backend  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎨 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📱 Fully responsive design  
+- 🍗 Dynamic menu rendering (combos, sides, drinks)  
+- 🎁 Promotions & featured items  
+- 🧩 Reusable UI components  
+- 🎯 Smooth animations and hover effects  
+- ⚡ High performance with Vite  
+- 🎨 Easy to customize  
+
+---
+
+## 📁 Project Structure
+
+```plaintext
+antojitos/
+├── public/
+├── src/
+│   ├── components/
+│   ├── data/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+└── package.json
+
+---
+
+## 🧪 **How to Run Locally**
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/TabyDev06/CROCANTE.git
+   ```
+2. Enter the project:
+
+   ```bash
+   cd CROCANTE
+   ```
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+4. Start the project:
+
+   ```bash
+   npm run dev
+   ```
+
+## 📝 **License**
+
+This project is for educational and portfolio purposes.
+
+---
+
+## 📬 **Author**
+
+**Farid Tabare Matos Villarroel (TabyDev)**
+Frontend Developer
